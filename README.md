@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Karlina Surya Sutanto
+# Laporan Proyek Machine Learning - Karlina Surya Witanto
 
 ## Domain Proyek
 Domain yang dieksplorasi dalam proyek kali ini adalah finance atau finansial. Secara spesifik fokus finansial pada
